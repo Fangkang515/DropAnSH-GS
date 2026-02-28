@@ -1,2 +1,7 @@
-# DropAnSH-GS
-Official Implementation of CVPR 2026 paper: Dropping anchor and spherical harmonics for sparse-view gaussian splatting
+## Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting (CVPR 2026)
+
+### [Paper](https://arxiv.org/abs/2602.20933)
+
+# Updates
+  - [ ] release training codes
+
