@@ -1,4 +1,4 @@
-## Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting [CVPR 2026]
+## [CVPR 2026] Dropping Anchor and Spherical Harmonics for Sparse-view Gaussian Splatting
 
 ### [Project website](https://sk-fun.fun/DropAnSH-GS) | [Paper](https://arxiv.org/abs/2602.20933)
 
